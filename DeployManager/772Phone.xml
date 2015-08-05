@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DeployProject>
+  <DeployEntry>
+    <Source>
+      <Transporter>
+        <Goods>F:\bitzhuwei\tfs.visualstudio.com\vs\DeployManager\*</Goods>
+      </Transporter>
+    </Source>
+    <DestinationDir>
+      <Transporter>
+        <Goods>H:\bitzhuwei\tfs.visualstudio.com\DeployManager</Goods>
+      </Transporter>
+    </DestinationDir>
+  </DeployEntry>
+    <DeployEntry>
+    <Source>
+    <Transporter>
+        <Goods>F:\bitzhuwei\tfs.visualstudio.com\vs\cloudDisk\ConsoleApplication1\ConsoleApplication1\cnblogs\*</Goods>
+      </Transporter>
+    </Source>
+    <DestinationDir>
+      <Transporter>
+        <Goods>H:\bitzhuwei\tfs.visualstudio.com\cnblogs</Goods>
+      </Transporter>
+    </DestinationDir>
+  </DeployEntry>
+  <DeployEntry>
+    <Source>
+      <Transporter>
+        <Goods>\\127.0.0.1\F$\bitzhuwei\tfs.visualstudio.com\vs\DeployManager\*</Goods>
+        <Ip>127.0.0.1</Ip>
+        <Username>Administrator</Username>
+        <Password>songqi77</Password>
+      </Transporter>
+    </Source>
+    <DestinationDir>
+      <Transporter>
+        <Goods>H:\bitzhuwei\tfs.visualstudio.com\DeployManager</Goods>
+      </Transporter>
+    </DestinationDir>
+  </DeployEntry>
+</DeployProject>

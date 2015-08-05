@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DeployProject>
+  <DeployEntry>
+    <Source>
+	  <Transporter>
+	    <Goods>F:\bitzhuwei\tfs.visualstudio.com\DeployManager\*</Goods>
+	  </Transporter>
+	  </Source>
+    <DestinationDir>
+      <Transporter>
+	    <Goods>H:\bitzhuwei\tfs.visualstudio.com\DeployManager</Goods>
+	  </Transporter>
+	</DestinationDir>
+  </DeployEntry>
+  <DeployEntry>
+    <Source>
+	  <Transporter>
+	    <Goods>F$\bitzhuwei\tfs.visualstudio.com\DeployManager\*</Goods>
+		<Ip>127.0.0.1</Ip>
+		<Username>Administrator</Username>
+		<Password>songqi77</Password>
+	  </Transporter>
+	  </Source>
+    <DestinationDir>
+	  <Transporter>
+	    <Goods>H:\bitzhuwei\tfs.visualstudio.com\DeployManager</Goods>
+	  </Transporter>
+	  </DestinationDir>
+  </DeployEntry>
+</DeployProject>

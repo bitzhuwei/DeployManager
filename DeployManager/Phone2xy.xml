@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DeployProject>
+  <DeployEntry>
+    <Source>
+      <Transporter>
+        <Goods>H:\bitzhuwei\tfs.visualstudio.com\cnblogs\*</Goods>
+      </Transporter>
+    </Source>
+    <DestinationDir>
+      <Transporter>
+        <Goods>F:\cnblogs</Goods>
+      </Transporter>
+    </DestinationDir>
+  </DeployEntry>
+  <DeployEntry>
+    <Source>
+      <Transporter>
+        <Goods>F:\cnblogs\*</Goods>
+      </Transporter>
+    </Source>
+    <DestinationDir>
+      <Transporter>
+        <Goods>H:\bitzhuwei\tfs.visualstudio.com\cnblogs</Goods>
+      </Transporter>
+    </DestinationDir>
+  </DeployEntry>
+</DeployProject>
